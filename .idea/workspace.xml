@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="a55a55dc-1af8-4007-b3b6-0f83c493c88f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -9,6 +12,65 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0000000000000178" />
+      <entry key="MS500" value="1.0017802987129978" />
+      <entry key="S2" value="1.27625402657797" />
+      <entry key="S5" value="2.420657723110062" />
+      <entry key="S10" value="4.546125818123032" />
+      <entry key="S30" value="9.039744496712313" />
+      <entry key="S60" value="11.162885690127226" />
+      <entry key="M2" value="12.4832469041154" />
+      <entry key="M5" value="13.741962703234208" />
+      <entry key="M10" value="15.27901871047001" />
+      <entry key="M15" value="16.393488514620817" />
+      <entry key="M30" value="18.15807852822675" />
+      <entry key="H1" value="19.408269469210516" />
+      <entry key="H2" value="20.155850772317443" />
+      <entry key="H4" value="20.56507420030662" />
+      <entry key="D1" value="20.9256570858069" />
+      <entry key="W1" value="20.98933320076352" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="4.540383320021633E-169" />
+      <entry key="S5" value="5.924831865617305E-68" />
+      <entry key="S10" value="3.6831538706663808E-34" />
+      <entry key="S30" value="1.572458775913365E-11" />
+      <entry key="S60" value="7.768720757061103E-6" />
+      <entry key="M2" value="0.005744596779778166" />
+      <entry key="M5" value="0.3215733074211642" />
+      <entry key="M10" value="1.2575577760631034" />
+      <entry key="M15" value="1.9881948296466208" />
+      <entry key="M30" value="3.149569770099731" />
+      <entry key="H1" value="3.9672602060572935" />
+      <entry key="H2" value="4.453483459473198" />
+      <entry key="H4" value="4.718752876297645" />
+      <entry key="D1" value="4.951975290369131" />
+      <entry key="W1" value="4.993110613702195" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.8467453123625418" />
+      <entry key="MS500" value="0.9689888730911872" />
+      <entry key="S2" value="1.2653544920367192" />
+      <entry key="S5" value="2.408820034231726" />
+      <entry key="S10" value="4.529289688681199" />
+      <entry key="S30" value="9.02545582923236" />
+      <entry key="S60" value="11.15366953934468" />
+      <entry key="M2" value="12.483486561805742" />
+      <entry key="M5" value="14.05409700191116" />
+      <entry key="M10" value="16.51977519633994" />
+      <entry key="M15" value="18.363763238463633" />
+      <entry key="M30" value="21.29312505394218" />
+      <entry key="H1" value="23.366250310548565" />
+      <entry key="H2" value="24.604085381371544" />
+      <entry key="H4" value="25.2810351848599" />
+      <entry key="D1" value="25.87714240396896" />
+      <entry key="W1" value="25.982373195581246" />
+    </decayedShown>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 0,
@@ -23,6 +85,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
@@ -35,7 +98,9 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "to.speed.mode.migration.done": "true",
+    "ts.external.directory.path": "/Users/kaylakim/WebstormProjects/coinpulse/node_modules/typescript/lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -53,7 +118,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1781600343991</updated>
-      <workItem from="1781600344862" duration="365000" />
+      <workItem from="1781600344862" duration="3391000" />
     </task>
     <servers />
   </component>
